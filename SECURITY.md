@@ -1,6 +1,6 @@
 # Sicherheit
 
-New York Online steckt hohen Wert in die Sicherheit und die niedrige Fehlerrate unser System!
+New York Online steckt hohen Wert in die Sicherheit und die niedrige Fehlerrate unseres Systems!
 - Skripte
 - Spielerverbindung
 - Datenbank
